@@ -196,7 +196,7 @@ Every commit is another level unlocked.
 ```text
 ╭──────────────────────────────────────────────────────╮
 │                                                      │
-│       CODE  •  ANIME  •  LEARN  •  REPEAT            │
+│            CODE  •   LEARN  •  REPEAT                │
 │                                                      │
 │              "Keep moving forward."                  │
 │                                                      │
